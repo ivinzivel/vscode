@@ -18,15 +18,7 @@ These high-end visual configurations are designed to enhance focus and productiv
 
 To enhance your development experience in VS Code, I recommend the following extensions:
 
-## 1. [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=brandonkirbyson.vscode-animations)
-This extension allows for advanced customization of the VS Code user interface. You can change the appearance of the title bar, add animations, adjust the size of elements, and more. It is ideal for those who like to personalize their development environment to the maximum.
-
-### Key Features:
-- Advanced UI customization
-- Custom animations
-- Element size and style adjustments
-
-## 2. [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+## 1. [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 One of the most popular and beautiful themes for VS Code. The Dracula theme offers a pleasant color scheme that helps reduce eye strain during long coding sessions.
 
 ### Key Features:
@@ -34,7 +26,7 @@ One of the most popular and beautiful themes for VS Code. The Dracula theme offe
 - Pleasant and modern design
 - Eye strain reduction
 
-## 3. [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+## 2. [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 Prettier is a code formatting tool that helps maintain a consistent style throughout your project. It supports a wide range of languages and integrations, ensuring your code remains clean and readable.
 
 ### Key Features:
@@ -42,7 +34,7 @@ Prettier is a code formatting tool that helps maintain a consistent style throug
 - Integration with linting tools
 - Customizable configuration
 
-## 4. [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
+## 3. [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
 This extension improves the navigation and visualization of files in the VS Code explorer, providing icons and symbols for different file and folder types.
 
 ### Key Features:
@@ -50,7 +42,7 @@ This extension improves the navigation and visualization of files in the VS Code
 - Improved explorer navigation
 - Clear and organized visualization
 
-## 5. [VSCode Animations](https://marketplace.visualstudio.com/items?itemName=brandonkirbyson.vscode-animations)
+## 4. [VSCode Animations](https://marketplace.visualstudio.com/items?itemName=brandonkirbyson.vscode-animations)
 Add smooth and custom animations to your VS Code, making the user experience more fluid and visually appealing.
 
 **Note:** During installation, make sure to select integration with APC Customize UI++.
@@ -60,7 +52,7 @@ Add smooth and custom animations to your VS Code, making the user experience mor
 - Enhanced user experience
 - Easy to configure
 
-## 6. [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+## 5. [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 GitLens enhances the Git functionality in VS Code, providing advanced insights into your code. It allows you to see who, why, and when a line or block of code was changed.
 
 ### Key Features:
@@ -68,7 +60,7 @@ GitLens enhances the Git functionality in VS Code, providing advanced insights i
 - Detailed change history
 - Integration with remote repositories
 
-## 7. [BlurMenu](https://marketplace.visualstudio.com/items?itemName=example.blur-menu)
+## 6. [BlurMenu](https://marketplace.visualstudio.com/items?itemName=example.blur-menu)
 This extension adds a blur effect to your VS Code menu, enhancing the visual appeal of your development environment.
 
 **Note:** After activating the extension, you need to configure it manually:
@@ -79,7 +71,7 @@ This extension adds a blur effect to your VS Code menu, enhancing the visual app
 - Blur effect for menu
 - Customizable blur intensity
 
-## 8. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+## 7. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 Error Lens enhances error highlighting in your code, making it easier to spot issues at a glance. It provides a more visible and informative display of errors and warnings directly in the editor.
 
 ### Key Features:
