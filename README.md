@@ -42,17 +42,7 @@ This extension improves the navigation and visualization of files in the VS Code
 - Improved explorer navigation
 - Clear and organized visualization
 
-## 4. [VSCode Animations](https://marketplace.visualstudio.com/items?itemName=brandonkirbyson.vscode-animations)
-Add smooth and custom animations to your VS Code, making the user experience more fluid and visually appealing.
-
-**Note:** During installation, make sure to select integration with APC Customize UI++.
-
-### Key Features:
-- Smooth and customizable animations
-- Enhanced user experience
-- Easy to configure
-
-## 5. [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+## 4. [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 GitLens enhances the Git functionality in VS Code, providing advanced insights into your code. It allows you to see who, why, and when a line or block of code was changed.
 
 ### Key Features:
@@ -60,18 +50,7 @@ GitLens enhances the Git functionality in VS Code, providing advanced insights i
 - Detailed change history
 - Integration with remote repositories
 
-## 6. [BlurMenu](https://marketplace.visualstudio.com/items?itemName=example.blur-menu)
-This extension adds a blur effect to your VS Code menu, enhancing the visual appeal of your development environment.
-
-**Note:** After activating the extension, you need to configure it manually:
-- Set the blur value to 16 for optimal visual effects.
-- Enable animations when prompted by the extension.
-
-### Key Features:
-- Blur effect for menu
-- Customizable blur intensity
-
-## 7. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+## 5. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 Error Lens enhances error highlighting in your code, making it easier to spot issues at a glance. It provides a more visible and informative display of errors and warnings directly in the editor.
 
 ### Key Features:
