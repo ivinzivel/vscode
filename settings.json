@@ -1,46 +1,4 @@
 {
-  "animations.Install-Method": "Apc Customize UI++",
-  "apc.activityBar": {
-    "position": "top",
-    "size": 32
-  },
-  "apc.electron": {
-    "frame": false,
-    "titleBarStyle": "hiddenInset"
-  },
-  "apc.font.family": "Inter",
-  "apc.header": {
-    "height": 36
-  },
-  "apc.imports": [
-    "YOUR_PATH_HERE/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
-  ],
-  "apc.listRow": {
-    "height": 24
-  },
-  "apc.statusBar": {
-    "fontSize": 10,
-    "height": 32,
-    "position": "editor-top"
-  },
-  "apc.stylesheet": {
-    ".editor-actions": "display: none",
-    ".notification-toast": "backdrop-filter: blur(16px)",
-    ".overflowingContentWidgets": "background-color: transparent !important",
-    ".overflowingContentWidgets .editor-widget": "backdrop-filter: blur(16px); background-color: #2e333b00 !important",
-    ".overflowingContentWidgets .message": "margin-top: 8px !important",
-    ".pane-header": "padding: 0 8px",
-    ".sidebar.left .actions-container": "justify-content: space-between !important",
-    ".sidebar.left .explorer-folders-view .collapsible::before": "transition: transform .2s ease-out",
-    ".sidebar.left .explorer-folders-view .composite .title": "height: 30px !important",
-    ".sidebar.left .explorer-folders-view .monaco-list-row": "transition: top .2s ease-out",
-    ".sidebar.left .explorer-folders-view .monaco-list-rows": "transition: height .2s ease-in-out",
-    ".sidebar.left .title h2, .title-label": "display: none !important",
-    ".sidebar.left .title-actions": "padding: 0 !important",
-    ".statusbar": "flex-direction: row-reverse",
-    ".statusbar .left-items": "flex-grow: 0 !important; flex-direction: row-reverse",
-    ".statusbar .right-items": "flex-direction: row !important"
-  },
   "breadcrumbs.enabled": false,
   "editor.cursorBlinking": "smooth",
   "editor.cursorSmoothCaretAnimation": "on",
